@@ -22,7 +22,7 @@ def build_and_upload():
 
     settings = Settings(
         username='limooor',
-        password='zlw01023337',
+        password='pypi-AgEIcHlwaS5vcmcCJGM0NTY0YzYxLTEwOGUtNGQ4NS04OTA4LTgwZWEwYWQyZjNmMQACKlszLCI5MWFjYWU5NC1hYTY4LTQxOTYtYmZmNy1jNDIxNmQ5ZmUzMzMiXQAABiCzypkPPaEQEJZVbqvY4E_k3EGdZuNlcWRuak-pHM1Qvg',
         repository_url='https://github.com/coffeetrader/coffeeapi'
     )
     upload(settings, dist_files)
